@@ -4,15 +4,8 @@ const elts = {
 };
 
 const texts = [
-    "If",
-    "You",
-    "Like",
-    "It",
-    "Please",
-    "Give",
-    "a Love",
-    ":)",
-    "by @DotOnion"
+    "Project",
+    "Hub"
 ];
 
 const morphTime = 1;
